@@ -1,4 +1,4 @@
-# ⚜️ 黃金聖衣生成器 V2 PRO
+# ⚜️ 黃金聖衣生成器 V2.15 PRO
 
 > Gold Cloth Generator - 聖鬥士星矢風格圖像編輯器
 
